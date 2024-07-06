@@ -47,5 +47,4 @@ This challenge was for sure one of the hardest until now. Was my first time usin
 
 ## Author
 
-- Github - [correlucas](https://github.com/correlucas/)
-- Frontend Mentor - [@correlucas](https://www.frontendmentor.io/profile/correlucas)
+- Github - aLazyNinja 
